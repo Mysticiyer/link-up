@@ -1,18 +1,18 @@
-📎 Link Up – How to Install & Test (v2)
+# 📎 Link Up – How to Install & Test (v2)
 
 Hi! 👋  
-Thanks for helping me test version 2 of this Chrome extension. It lets you copy your own LinkedIn profile URL with one click — no more digging through menus. Your feedback has helped improve this, and I’d love any more thoughts you have!
+Thanks for helping me test version 2 of this Chrome extension. It lets you copy your own LinkedIn profile URL with one click — no more digging through menus. Your feedback has helped improve this, and I'd love any more thoughts you have!
 
 ---
 
-🆕 What’s New in Version 2:
-• Improved accuracy when copying your profile URL — even when you're already on your profile page.
-• Cleaned up the link to remove edit and overlay suffixes LinkedIn sometimes adds.
-• Renamed the extension to “Link Up” 🎉
+## 🆕 What's New in Version 2:
+- Improved accuracy when copying your profile URL — even when you're already on your profile page.
+- Cleaned up the link to remove edit and overlay suffixes LinkedIn sometimes adds.
+- Renamed the extension to "Link Up" 🎉
 
 ---
 
-🧩 Step-by-Step Installation - Mac (2 min)
+## 🧩 Step-by-Step Installation - Mac (2 min)
 1. Unzip this folder  
    - You should see files like manifest.json, popup.html, popup.js, etc.
 
@@ -21,7 +21,7 @@ Thanks for helping me test version 2 of this Chrome extension. It lets you copy 
 
 3. Turn ON Developer Mode (top-right switch)
 
-4. Click “Load Unpacked”
+4. Click "Load Unpacked"
 
 5. Select the unzipped folder
 
@@ -29,12 +29,12 @@ Thanks for helping me test version 2 of this Chrome extension. It lets you copy 
 
 ---
 
-🧪 How to Test It
+## 🧪 How to Test It
 1. Go to https://www.linkedin.com and log in
 
 2. Click the extension icon in the Chrome toolbar
 
-3. Click the “Copy My LinkedIn Profile URL” button in the popup
+3. Click the "Copy My LinkedIn Profile URL" button in the popup
 
 4. Open Notes, TextEdit, or a message box and paste (⌘ + V)
 
@@ -42,7 +42,7 @@ Thanks for helping me test version 2 of this Chrome extension. It lets you copy 
 
 ---
 
-🔐 PRIVACY & SECURITY
+## 🔐 PRIVACY & SECURITY
 
 This extension was created for personal use and testing purposes only. It does not:
 
@@ -57,10 +57,10 @@ All code is readable and inspectable — feel free to open the files and verify 
 
 ---
 
-❗ If Something Doesn’t Work
-- Make sure you’re logged into LinkedIn  
+## ❗ If Something Doesn't Work
+- Make sure you're logged into LinkedIn  
 - Try refreshing the LinkedIn tab  
-- Check if your profile picture or “Me” menu is visible  
+- Check if your profile picture or "Me" menu is visible  
 - Right-click the popup → click Inspect → go to Console and share any errors with me
 
 Thanks again!  
