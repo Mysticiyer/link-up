@@ -66,4 +66,4 @@ All code is readable and inspectable — feel free to open the files and verify 
 Thanks again!  
 Feel free to give me feedback — anything confusing, broken, or awesome 😄
 
-— [Your Name]
+— [Mystic Iyer]
