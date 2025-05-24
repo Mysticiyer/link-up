@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "LinkedIn Profile URL Copier",
+  "version": "1.0",
+  "description": "Copy your LinkedIn profile URL from anywhere on the site.",
+  "permissions": ["scripting", "activeTab", "clipboardWrite"],
+  "host_permissions": ["*://*.linkedin.com/*"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  }
+}
+
