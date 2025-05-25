@@ -1,7 +1,7 @@
 # 📎 Link Up – How to Install & Test (v2)
 
-Hi! 👋  
-Thanks for helping me test version 2 of this Chrome extension. It lets you copy your own LinkedIn profile URL with one click — no more digging through menus. Your feedback has helped improve this, and I'd love any more thoughts you have!
+Hi! 👋
+Thanks for helping me test version 2 of this Chrome extension. It lets you copy your own LinkedIn profile URL with one click — no more digging through menus. Your feedback has helped improve this, and I'd love any more thoughts you have! Read more about the "why" [here](./MOTIVATION.md).
 
 ---
 
@@ -13,10 +13,10 @@ Thanks for helping me test version 2 of this Chrome extension. It lets you copy 
 ---
 
 ## 🧩 Step-by-Step Installation - Mac (2 min)
-1. Unzip this folder  
+1. Unzip this folder
    - You should see files like manifest.json, popup.html, popup.js, etc.
 
-2. Open Chrome and go to:  
+2. Open Chrome and go to:
    chrome://extensions
 
 3. Turn ON Developer Mode (top-right switch)
@@ -46,9 +46,9 @@ Thanks for helping me test version 2 of this Chrome extension. It lets you copy 
 
 This extension was created for personal use and testing purposes only. It does not:
 
-- Store or track any user data  
-- Send any data to external servers  
-- Monitor your activity  
+- Store or track any user data
+- Send any data to external servers
+- Monitor your activity
 - Read from your clipboard
 
 It only runs when manually triggered (by clicking the extension icon), and its only function is to find your own LinkedIn profile URL and copy it to your clipboard for easy sharing.
@@ -58,12 +58,12 @@ All code is readable and inspectable — feel free to open the files and verify 
 ---
 
 ## ❗ If Something Doesn't Work
-- Make sure you're logged into LinkedIn  
-- Try refreshing the LinkedIn tab  
-- Check if your profile picture or "Me" menu is visible  
+- Make sure you're logged into LinkedIn
+- Try refreshing the LinkedIn tab
+- Check if your profile picture or "Me" menu is visible
 - Right-click the popup → click Inspect → go to Console and share any errors with me
 
-Thanks again!  
+Thanks again!
 Feel free to give me feedback — anything confusing, broken, or awesome 😄
 
 — [Mystic Iyer]
